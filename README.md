@@ -1,5 +1,5 @@
-# rnd-gunicorn
-simple app using gunicorn
+# explore-gunicorn
+simple app to explore gunicorn
 
 # running the app
 
